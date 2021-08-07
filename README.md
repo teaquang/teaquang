@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @teaquang
 - 👀 I’m interested in UX/UI Design and Motorcycles
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+_ Well folks drawing cat ears is fun and a good time waster.
 
 <!---
 teaquang/teaquang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
